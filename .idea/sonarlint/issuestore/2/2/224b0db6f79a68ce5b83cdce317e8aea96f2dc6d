@@ -1,0 +1,21 @@
+
+]
+java:S1220""Move this file to a named package.8¨²Èë–2J$d9d8a725-2753-4e66-a747-91c97d214ea4
+r	java:S106"+Replace this use of System.out by a logger.(÷ûäüÿÿÿÿ8´²Èë–2J$5574a98a-7d90-4ba8-8f0b-1dd8410b431a
+r	java:S106
+"+Replace this use of System.out by a logger.(˜µîüÿÿÿÿ8´²Èë–2J$c7ee7124-94ef-495a-8fef-f87ecb6d2e50
+r	java:S106"+Replace this use of System.out by a logger.(ÿç¡Ãùÿÿÿÿ8¸²Èë–2J$abbe22de-ad85-452e-8d69-f9f839736f55
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ÿ…–«øÿÿÿÿ8¹²Èë–2J$a287a8d8-b418-437a-beb2-cc884aa97a50
+‡
+java:S3358"DExtract this nested ternary operation into an independent statement.(¿ØİÅ8¼²Èë–2J$ba03d346-e5da-4583-ae7f-c68d3e093d87
+‡
+java:S3358"DExtract this nested ternary operation into an independent statement.(½²´È8¾²Èë–2J$78cce90e-c8e6-423e-8089-3fcaae0c4548
+Œ
+java:S3358"DExtract this nested ternary operation into an independent statement.(àı¸úÿÿÿÿ8¿²Èë–2J$49848cf5-df89-4490-83e9-6d29988b742f
+‡
+java:S3358"DExtract this nested ternary operation into an independent statement.(éÁÄö8¿²Èë–2J$036198c2-ace1-4f49-9ce5-927735eaba33
+‡
+java:S3358"DExtract this nested ternary operation into an independent statement.(¡ƒå‡8¿²Èë–2J$56a3f1f5-1052-4059-958a-499fb2aebc77
+‡
+java:S3358"DExtract this nested ternary operation into an independent statement.(ÜŠĞƒ8¿²Èë–2J$a88ab749-4363-4757-9822-0323ddaf3307
